@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\רון שמעיה\source\repos\firstmission\firstmission\main.c(156): error C2082: redefinition of formal parameter 'a'
